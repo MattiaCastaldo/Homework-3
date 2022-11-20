@@ -2,7 +2,7 @@
 #### Contributors : 
 1. Mattia Castaldo, 1837100, castaldo.1837100@studenti.uniroma1.it
 2. Simone Facchiano, 1919922, facchiano.1919922@studenti.uniroma1.it
-3. Sharifeh Alaei           sharifeh.alaei@gmail.com
+3. Sharifeh Alaei, 2050840,          sharifeh.alaei@gmail.com
 
 #### In our repository you can find:
 1. Main_Notebook.ipynb which contains all the code for all the questions.
